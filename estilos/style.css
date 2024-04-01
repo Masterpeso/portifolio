@@ -37,3 +37,22 @@ padding-left: 40px;
     height: auto; /* Mantém a proporção da altura */
     
 }
+
+.botao {
+    background-color: #640edc ; /* Cor de fundo */
+    color: white; /* Cor do texto */
+    padding: 10px 20px; /* Espaçamento interno */
+    text-align: center; /* Alinhamento do texto */
+    text-decoration: none; /* Remover sublinhado */
+    display: inline-block; /* Exibir como bloco */
+    border: none; /* Remover borda */
+    border-radius: 5px; /* Bordas arredondadas */
+    cursor: pointer; /* Alterar cursor */
+    font-size: 16px; /* Tamanho da fonte */
+    margin-left: 40px; /*espaçamento externo*/
+    margin-top: 15px; /*espaçamento externo*/
+}
+
+.botao:hover {
+    background-color: #5100c2 ;
+}
