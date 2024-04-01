@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: #262626;
+}
+
+section h1 {
+    color: rgba(255, 255, 255, 0.815);
+    font-size: 3.0em;
+    padding: 10px;
+    padding-top: 40px;
+    padding-left: 40px;
+}
+
+section h2 {
+padding-left: 40px;
+ color: #6D0FF2 ;
+}
+
+section p {
+    color: lightgray;
+    padding-left: 50px;
+    padding-top: 40px;
+    font-size: 1.2em;
+    
+} 
+
+img {
+padding-left: 40px;
+    width: 70px; /* Define a largura da imagem */
+    height: auto; /* Mantém a proporção da altura */
+    
+}
